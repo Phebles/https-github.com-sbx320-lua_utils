@@ -1,4 +1,4 @@
--- Developer: sbx320
+-- Developer: Phebles
 -- License: MIT
 -- Github Repos: https://github.com/sbx320/lua_utils
 Async = { id = false; threads = {}}
